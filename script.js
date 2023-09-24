@@ -1,4 +1,6 @@
 function workNigger(){
     return alert('work nigger')
 }
-workNigger()
+function workWhigger(){
+    return alert('work whigger')
+}
